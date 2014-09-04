@@ -1,7 +1,7 @@
 Implicits in Practice
 ---------------------
 
-Demo at [ML Family Workshop 2014](http://okmij.org/ftp/ML/ML14.html)
+[Demo](src/test/scala/test.scala) at [ML Family Workshop 2014](http://okmij.org/ftp/ML/ML14.html)
 
 by [Nada Amin](http://github.com/namin) and [Tiark Rompf](http://github.com/TiarkRompf)
 
